@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ile Des Animaux</title>
+
+<!--[if lte IE 9]>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+
+<![endif]-->
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+<link rel="stylesheet" href="../../css/agence-japan.css">
+<link rel="stylesheet" href="../../css/jquery.bxslider.css">
+
+
+    </head>
+    
+   
+  <body>
+     
+     
+      
+      
+      <header id="neko-top">
+       <a id="show-burger1" href="#">burger</a>
+       <h1>Manekineko-Trip</h1>
+       
+       <h1 class="h1petit">Les iles aux 
+animaux<br>
+</h1>
+      
+        <div id="wrap-navi">
+         <a id="hide-burger1" href="#">fermer</a>
+          
+          <div id="logo">
+           
+           <a href="../../index.html"><img class="resp" src="../../images-site/logo.png" alt="logo" width="107" height="105"></a>
+       </div>
+        <nav id="navi-left">
+        
+<ul>
+  <li><a href="#">Ciercuits
+    </a>
+    <ul>
+      <li><a href="#">Iles aux animaux</a></li>
+      <li><a href="#">Villagés/Réserves</a></li>
+      <li><a href="#">Temples</a></li>
+      <li><a href="#">Événement </a></li>
+    </ul>
+  </li>
+  <li><a href="#">Hébergement
+    </a>
+    <ul>
+      <li><a href="#">Hotels</a></li>
+      <li><a href="#">Hébergement/Collocation</a></li>
+      <li><a href="#">Louer</a></li>
+    </ul>
+  </li>
+  <li><a href="#">Devis</a></li>
+  <li><a href="#">Informations
+    </a>
+    <ul class="ul-info">
+      <li><a href="#">Saisons: printemps - été - automne - hiver</a></li>
+      <li><a href="#">Prévisions météo</a></li>
+      <li><a href="#">Catastrophes naturelles</a></li>
+      <li><a href="#">Litinéaires</a></li>
+      <li><a href="#">Cours du Yen</a></li>
+      <li><a href="#">Douane et import</a></li>
+      <li><a href="#">Types de Transport</a></li>
+    </ul>
+  </li>
+</ul>
+</nav>
+
+ <div class="video">
+  <p>Vidéo du Mois</p>
+<a href="#"><span class="icon-youtube-with-circle"></span></a> <!--place pour l'icone vidéo avec un lien, à voir apres-->
+</div>
+</div>
+  </header>
+     
+     <div id="wrapper">
+        <div class="choix-ciercuit">
+          <ul>
+              <a href="#chats"><li>Ile des Chats</li></a>
+              <a href="#"><li>Ile des Lapins</li></a>
+              <a href="#"><li>Ile des singes/cerfs</li></a>
+          </ul>
+        
+        </div>
+        <div class="contact-right"><a href="#"><p>Nous-Contacter</p></a></div>
+           
+         <section class="ile-des-chats">
+              
+               <h1 id="chats">L'ile des Chats "Aoshima"</h1>
+               <article class="about-chats"><img src="../../images-site/cat-island-food-japan-aoshima-.jpg" alt="cat-island-food-japan" width="498" height="338"></article>
+               <article class="about-chats chats-lastright"><img src="../../images-site/cat-island.jpg" alt="cat-island" width="498" height="338"></article>
+               
+                 <div class="texte-chats">
+                  Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+
+Nec vox accusatoris ulla licet subditicii in his malorum quaerebatur acervis ut saltem specie tenus crimina praescriptis legum committerentur, quod aliquotiens fecere principes saevi: sed quicquid Caesaris implacabilitati sedisset, id velut fas iusque perpensum confestim urgebatur impleri.<br>
+           Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+            </div>
+                <h2>L'hotel des Chats</h2>
+            <article class="about-chats" ><img src="../../images-site/cat-island-hotel1.jpg" alt="cat-island" width="498" height="338">
+            <div class="under-textchats">
+                <p>Le prix d'une nuit 1000Y</p>
+            </div>
+            </article>
+            <article class="about-chats" ><img src="../../images-site/cat-island-hotel2.jpg" alt="cat-island" width="498" height="338"><div class="under-textchats">
+                <p>Le prix d'une nuit 1000Y</p>
+            </div></article>
+            <div class="texte-chats">
+                  Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+            </div>
+             <figure class="video-chats-top">
+                 <figcaption class="fig-chats">Présentation de L'ile en vidéo</figcaption>
+                 <video class="video-chats" controls poster="../../images-site/cat-island.jpg">
+                     <source src="../../images-site/japon-lile-aux-lapins-.mp4" type="video/mp4">
+                 </video>
+            </figure>
+             <div class="map-chats"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4692.236812267991!2d132.47863085476706!3d33.7370794788669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3545615a0290681f%3A0xedb346f44069d0e3!2sAoshima+Island(Cat+Island)!5e0!3m2!1sfr!2sfr!4v1513338627692" width="1008" height="250" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+             
+             
+              </section>
+              
+              
+            <section class="ile-des-lapins">
+               
+               <section class="ile-des-chats">
+              
+               <h1 id="chats">L'ile des Lapins "Aoshima"</h1>
+               <article class="about-chats"><img src="../../images-site/cat-island-food-japan-aoshima-.jpg" alt="cat-island-food-japan" width="498" height="338"></article>
+               <article class="about-chats chats-lastright"><img src="../../images-site/cat-island.jpg" alt="cat-island" width="498" height="338"></article>
+               
+                 <div class="texte-chats">
+                  Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+
+Nec vox accusatoris ulla licet subditicii in his malorum quaerebatur acervis ut saltem specie tenus crimina praescriptis legum committerentur, quod aliquotiens fecere principes saevi: sed quicquid Caesaris implacabilitati sedisset, id velut fas iusque perpensum confestim urgebatur impleri.<br>
+           Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+            </div>
+                <h2>L'hotel des Chats</h2>
+            <article class="about-chats" ><img src="../../images-site/cat-island-hotel1.jpg" alt="cat-island" width="498" height="338">
+            <div class="under-textchats">
+                <p>Le prix d'une nuit 1000Y</p>
+            </div>
+            </article>
+            <article class="about-chats" ><img src="../../images-site/cat-island-hotel2.jpg" alt="cat-island" width="498" height="338"><div class="under-textchats">
+                <p>Le prix d'une nuit 1000Y</p>
+            </div></article>
+            <div class="texte-chats">
+                  Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+            </div>
+             <figure class="video-chats-top">
+                 <figcaption class="fig-chats">Présentation de L'ile en vidéo</figcaption>
+                 <video class="video-chats" controls poster="../../images-site/cat-island.jpg">
+                     <source src="../../images-site/japon-lile-aux-lapins-.mp4" type="video/mp4">
+                 </video>
+            </figure>
+             <div class="map-chats"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4692.236812267991!2d132.47863085476706!3d33.7370794788669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3545615a0290681f%3A0xedb346f44069d0e3!2sAoshima+Island(Cat+Island)!5e0!3m2!1sfr!2sfr!4v1513338627692" width="1008" height="250" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+             
+             
+              </section>
+               
+            </section>
+            
+            <section class="singes-cerfs">
+             <section class="ile-des-chats">
+              
+               <h1 id="chats">L'ile des Chats "Aoshima"</h1>
+               <article class="about-chats"><img src="../../images-site/cat-island-food-japan-aoshima-.jpg" alt="cat-island-food-japan" width="498" height="338"></article>
+               <article class="about-chats chats-lastright"><img src="../../images-site/cat-island.jpg" alt="cat-island" width="498" height="338"></article>
+               
+                 <div class="texte-chats">
+                  Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+
+Nec vox accusatoris ulla licet subditicii in his malorum quaerebatur acervis ut saltem specie tenus crimina praescriptis legum committerentur, quod aliquotiens fecere principes saevi: sed quicquid Caesaris implacabilitati sedisset, id velut fas iusque perpensum confestim urgebatur impleri.<br>
+           Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+            </div>
+                <h2>L'hotel des Chats</h2>
+            <article class="about-chats" ><img src="../../images-site/cat-island-hotel1.jpg" alt="cat-island" width="498" height="338">
+            <div class="under-textchats">
+                <p>Le prix d'une nuit 1000Y</p>
+            </div>
+            </article>
+            <article class="about-chats" ><img src="../../images-site/cat-island-hotel2.jpg" alt="cat-island" width="498" height="338"><div class="under-textchats">
+                <p>Le prix d'une nuit 1000Y</p>
+            </div></article>
+            <div class="texte-chats">
+                  Hae duae provinciae bello quondam piratico catervis mixtae praedonum a Servilio pro consule missae sub iugum factae sunt vectigales. et hae quidem regiones velut in prominenti terrarum lingua positae ob orbe eoo monte Amano disparantur.
+
+Quaestione igitur per multiplices dilatata fortunas cum ambigerentur quaedam, non nulla levius actitata constaret, post multorum clades Apollinares ambo pater et filius in exilium acti cum ad locum Crateras nomine pervenissent, villam scilicet suam quae ab Antiochia vicensimo et quarto disiungitur lapide, ut mandatum est, fractis cruribus occiduntur.
+            </div>
+             <figure class="video-chats-top">
+                 <figcaption class="fig-chats">Présentation de L'ile en vidéo</figcaption>
+                 <video class="video-chats" controls poster="../../images-site/cat-island.jpg">
+                     <source src="../../images-site/japon-lile-aux-lapins-.mp4" type="video/mp4">
+                 </video>
+            </figure>
+             <div class="map-chats"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4692.236812267991!2d132.47863085476706!3d33.7370794788669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3545615a0290681f%3A0xedb346f44069d0e3!2sAoshima+Island(Cat+Island)!5e0!3m2!1sfr!2sfr!4v1513338627692" width="1008" height="250" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+             
+             
+              </section>
+               
+            </section>
+         
+         
+         
+     </div>
+      
+      
+         
+         <footer>
+            
+            <div class="liste">
+             <ul>
+                 <a href="#"><span class="icon-phone"><li>Contactez-nous</li></span></a>
+                 <a href="#"><span class="icon-info"><li>A propos</li></span></a>
+                 <a href="#"><span class="icon-news"><li>Mentions légales</li></span></a>
+                 <a href="#"><span class="icon-location"><li>Plan du site</li></span></a>
+             </ul>
+             
+             </div>
+             <div class="social">
+                 <ul>
+                 <li><a href="#"><span class="icon-facebook"></span></a></li>
+                 <li><a href="#"><span class="icon-instagram"></span></a></li>
+                 <a href="#"><li><span class="icon-twitter"></span></a><li>
+                 </ul>
+             </div>
+             <p>© 2016 Manekineko-Trip. Tous droits réservés</p>
+         </footer>
+          
+          
+      
+      
+      <script src="../../js/jquery-3.2.1.min.js"></script>
+      <script src="../../js/jquery.bxslider.js"></script>
+     <script src="../../js/mon-bxslider-japan.js"></script>
+     <script src="../../js/jquery-animate-legande.js"></script>
+  </body>
+  
+</html>
+ 

@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?glkezh');
+  src:  url('fonts/icomoon.eot?glkezh#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?glkezh') format('truetype'),
+    url('fonts/icomoon.woff?glkezh') format('woff'),
+    url('fonts/icomoon.svg?glkezh#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-chevron-with-circle-up:before {
+  content: "\e901";
+}
+.icon-info:before {
+  content: "\e902";
+}
+.icon-location:before {
+  content: "\e909";
+}
+.icon-news:before {
+  content: "\e903";
+}
+.icon-phone:before {
+  content: "\e904";
+}
+.icon-shopping-cart:before {
+  content: "\e905";
+}
+.icon-facebook:before {
+  content: "\e906";
+}
+.icon-instagram:before {
+  content: "\e907";
+}
+.icon-twitter:before {
+  content: "\e908";
+}
+.icon-youtube-with-circle:before {
+  content: "\e900";
+}
+.icon-ctrl:before {
+  content: "\ea50";
+}
